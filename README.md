@@ -4,10 +4,15 @@ This project uses Python3 to crawl through TOR and Normal websites searching for
 It uses the TorCrawl Project developed by James04gr which can be found [here](https://github.com/james04gr/TorCrawl.py).
 
 ## Setup
+### Ubuntu / WSL
+1. Execute setup shell script with `./setup.sh`
+
+
+### Other Linux Distros
 1. Install Python3 and Pip3
 2. Install Tor
 3. Navigate to the TorCrawl.py folder and execute `pip3 install -r requirements.txt`
-4. Start the Tor Service with `sudo service tor start`
+4. Start the Tor Service
 
 ## Usage
 The `findUploads.py` generates a `uploadLinks.txt` file which will contain all found links.
