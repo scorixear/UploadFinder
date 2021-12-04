@@ -1,7 +1,7 @@
 # UploadFinder
 
 This project uses Python3 to crawl through TOR and Normal websites searching for Links to UploadHosts such as mediafire or solidfiles.
-It uses the TorCrawl Project developed by James04gr which can be found (here)[https://github.com/james04gr/TorCrawl.py]
+It uses the TorCrawl Project developed by James04gr which can be found [here](https://github.com/james04gr/TorCrawl.py)
 
 ## Setup
 1. Install Python3 and Pip3
