@@ -24,6 +24,9 @@ To start the programm, use command arguments to set it the url to crawl and othe
 | -d | Sets the depth to crawl (the clicks to take)        | `-d 2`                  |
 | -p | Set the time to wait between each click in seconds  | `-p 2`                  |
 
+### Example Command
+`python3 findUploads.py -u https://github.com -d 1 -p 2`
+
 ## Adding new Uploads
 For temporal use you can update the `knownUploadHosts.txt` with additional links.
 Please consider creating a PR in this repository to update the list globaly aswell.
