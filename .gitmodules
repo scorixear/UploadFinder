@@ -1,0 +1,3 @@
+[submodule "TorCrawl.py"]
+	path = TorCrawl.py
+	url = https://github.com/james04gr/TorCrawl.py
